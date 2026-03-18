@@ -230,7 +230,7 @@ Department of Mechanical Engineering, Vanderbilt University
 
 ## Acknowledgments
 
-This work was developed in the [Caldwell Lab](https://engineering.vanderbilt.edu/bio/joshua-caldwell) at Vanderbilt University. Funding acknowledged from [add your grant sources — e.g. NIH R03, ONR, NRL].
+This work was developed in the [Caldwell Lab](https://engineering.vanderbilt.edu/bio/joshua-caldwell) at Vanderbilt University.
 
 ---
 
